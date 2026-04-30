@@ -1,2 +1,2 @@
 # kolos-patika
-Kolos Patika Esztergop csomagautomata értékelés
+Kolos Patika Esztergom csomagautomata értékelés
